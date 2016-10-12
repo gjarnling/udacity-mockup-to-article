@@ -17,7 +17,7 @@ Among other things the first course covered the history of the web and how it ne
 An explanation of how the browser interprets and create the DOM tree from the HTML-document followed before delving deeper into several HTML elements available to markup the information with.
 
 ## Solution
-Defined the DOCTYPE and what character set. Then used the appropriate HTML elements based on the design mockup to structure the document and validated it in W3C Validator. You can view it [here](https://gjarnling.github.io/udacity-mockup-to-article/).
+Defined the DOCTYPE and the character set. Used the appropriate HTML elements based on the design mockup to structure the document and validated it in W3C Validator. You can view it [here](https://gjarnling.github.io/udacity-mockup-to-article/).
 
 ## Closure
 The solution met the specifications.

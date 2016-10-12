@@ -7,6 +7,15 @@ Replicate a design mockup of a blog post and translate it to [valid HTML](https:
 ## Prerequisites
 Being a mere 2.5 hours the course was a short introduction to HTML with a related problem set. Even so it covered a lot of important matters. Below is a short summary of the content; just be adviced that this in no way is a comprehensive or detailed explanation of the content covered.
 
+### HTML Syntax
+The first lesson covered the structure of markup languages in general and [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) in particular. It discussed the importance of [character encoding](https://en.wikipedia.org/wiki/Character_encoding) and the difference between ASCII and  RTF. It also discussed [Unicode](http://unicode-table.com/en/) and why this matters for [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization). It also explained the importance of telling the browser what encoding, such as [UTF-8](https://en.wikipedia.org/wiki/UTF-8) to use while rendering the document.
+
+Different text editors available for coding, such as [Sublime Text](http://www.sublimetext.com/) and [Atom](https://atom.io/), were presented. It also presented what browser(s) are prefered while coding, mainly due to their developer tools.
+
+Among other things the first course covered the history of the web and how it never breaks as long as one follow web standards. To make sure sites will be compatible with future technological changes it's hence important to make sure code is valid. It also covered the importance to tell the browser what document it's presented with by providing a DOCTYPE. This to make sure proper [rendering](https://developer.mozilla.org/en-US/docs/Quirks_Mode_and_Standards_Mode) in the future.
+
+An explanation of how the browser interprets and create the DOM tree from the HTML-document followed before delving deeper into several HTML elements available to markup the information with.
+
 ## Solution
 Used the appropriate HTML5 tags to structure the document and validated it in W3C Validator. You can view it [here](https://gjarnling.github.io/udacity-mockup-to-article/).
 
